@@ -1,4 +1,4 @@
-<header>
+
 
 <!--
   <<< Author notes: Course header >>>
@@ -12,7 +12,13 @@
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
 </header>
-
+# Heading 1
+## Heading 2
+### Heading 3
+#### Heading 4
+##### Heading 5
+###### Heading 6
+=
 <!--
   <<< Author notes: Step 5 >>>
   Start this step by acknowledging the previous step.
